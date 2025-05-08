@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandana4/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
 | ------- |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/Nandana4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nandana4/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandana4/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sorting
 |  |
 | ------- |
@@ -50,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Nandana4/Leetcode/tree/master/0268-missing-number) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
