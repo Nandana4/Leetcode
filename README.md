@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Nandana4/Leetcode/tree/master/0001-two-sum) |
+| [0054-spiral-matrix](https://github.com/Nandana4/Leetcode/tree/master/0054-spiral-matrix) |
 | [0217-contains-duplicate](https://github.com/Nandana4/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Nandana4/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandana4/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Nandana4/Leetcode/tree/master/0054-spiral-matrix) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Counting Sort
 |  |
@@ -69,4 +71,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1395-minimum-time-visiting-all-points](https://github.com/Nandana4/Leetcode/tree/master/1395-minimum-time-visiting-all-points) |
+## Matrix
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/Nandana4/Leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
