@@ -3,7 +3,7 @@ class Solution(object):
         """
         :type nums: List[int]
         :rtype: List[int]
-        """
+        """ 
         new=[]
         for i in nums:
             x=i*i
