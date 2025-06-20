@@ -26,10 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandana4/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandana4/Leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandana4/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## String
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandana4/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
 |  |
@@ -100,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandana4/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 ## Geometry
 |  |
 | ------- |
