@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandana4/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0008-string-to-integer-atoi](https://github.com/Nandana4/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Nandana4/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandana4/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
