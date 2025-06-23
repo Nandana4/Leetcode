@@ -4,18 +4,23 @@ class Solution(object):
         :type s: str
         :rtype: str
         """
-        temp=''
-        max=0
-        perm=''
-        for i in range(len(s)):
-            if len(s)<=1:
-                return s
-            for j in range(i+1,len(s)+1):
-                temp=s[i:j]
-                if temp==temp[::-1]:
-                    if len(temp)>max:
-                        max=len(temp)
-                        perm=temp
-                
-        return perm
+        def expandAroundCenter(left, right):
+            while left >= 0 and right < len(s) and s[left] == s[right]:
+                left -= 1
+                right += 1
+            return s[left+1:right]
 
+        longest = ''
+        for i in range(len(s)):
+            # Odd-length palindrome
+            temp1 = expandAroundCenter(i, i)
+            # Even-length palindrome
+            temp2 = expandAroundCenter(i, i+1)
+
+            # Update longest if needed
+            if len(temp1) > len(longest):
+                longest = temp1
+            if len(temp2) > len(longest):
+                longest = temp2
+
+        return longest
