@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Nandana4/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0013-roman-to-integer](https://github.com/Nandana4/Leetcode/tree/master/0013-roman-to-integer) |
 | [0217-contains-duplicate](https://github.com/Nandana4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nandana4/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nandana4/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Nandana4/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Nandana4/Leetcode/tree/master/0560-subarray-sum-equals-k) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/Nandana4/Leetcode/tree/master/0008-string-to-integer-atoi) |
 | [0013-roman-to-integer](https://github.com/Nandana4/Leetcode/tree/master/0013-roman-to-integer) |
 | [0151-reverse-words-in-a-string](https://github.com/Nandana4/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Nandana4/Leetcode/tree/master/0242-valid-anagram) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Sliding Window
@@ -84,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Nandana4/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Nandana4/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Nandana4/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Nandana4/Leetcode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/Nandana4/Leetcode/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Nandana4/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Nandana4/Leetcode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
