@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Nandana4/Leetcode/tree/master/0242-valid-anagram) |
 | [0451-sort-characters-by-frequency](https://github.com/Nandana4/Leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0812-rotate-string](https://github.com/Nandana4/Leetcode/tree/master/0812-rotate-string) |
+| [1078-remove-outermost-parentheses](https://github.com/Nandana4/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandana4/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [1890-sum-of-beauty-of-all-substrings](https://github.com/Nandana4/Leetcode/tree/master/1890-sum-of-beauty-of-all-substrings) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/Nandana4/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [1078-remove-outermost-parentheses](https://github.com/Nandana4/Leetcode/tree/master/1078-remove-outermost-parentheses) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/Nandana4/Leetcode/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 ## Trie
 |  |
